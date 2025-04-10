@@ -1,12 +1,10 @@
 {
-  "name": "finalproject_milestone_one",
+  "name": "orioles-fly-flight-search-form",
   "version": "1.0.0",
   "description": "IT-634-Milestone-One",
   "license": "ISC",
   "author": "Bek Johansson",
   "type": "commonjs",
   "main": "index.js",
-  "scripts": {
-      
-  }
+  "scripts": {}
 }
