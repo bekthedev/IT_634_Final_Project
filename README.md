@@ -30,7 +30,7 @@ To view the project in action:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/orioles-fly.git
+   git clone https://github.com/bekthedev/orioles-fly.git
    ```
 
 2. Open the project folder and start by opening `index.html` in your web browser.
@@ -79,4 +79,3 @@ If you want to contribute to this project, feel free to fork the repository and 
 ## **License**
 
 This project is open-source and available under the [MIT License](LICENSE).
-# IT_634_MS_1
